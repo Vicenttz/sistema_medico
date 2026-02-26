@@ -10,10 +10,14 @@
 ## Enviando as proximas versões
 
 1. git add . -> Adiciona os arquivos para o repositorio local
-2. git commit -m "Primeira versão do sistema"
+2. git commit -m "Segunda Versão do sistema"
 3. git push
 
 ## CONFIGURAÇÃO DE GIT
 
 git config --global user.name "Davi Barreto"
 git config --global user.email "vicennttzz@gmail.com"
+
+## Sites
+
+https://docs.djangoproject.com/en/6.0/
